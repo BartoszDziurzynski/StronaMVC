@@ -1,5 +1,9 @@
-﻿################################################################################
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
 /StronaMVC/.vs/StronaMVC/v15/Server/sqlite3
+StronaMVC/.vs/StronaMVC/v15/Server/sqlite3/storage.ide-wal
+StronaMVC/.vs/StronaMVC/v15/Server/sqlite3/storage.ide-shm
+StronaMVC/.vs/StronaMVC/v15/Server/sqlite3/storage.ide
+StronaMVC/.vs/StronaMVC/v15/Server/sqlite3/db.lock

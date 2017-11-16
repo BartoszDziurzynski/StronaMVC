@@ -15,7 +15,7 @@ namespace StronaMVC.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Brak APlikacji xD";
 
             return View();
         }
